@@ -62,7 +62,7 @@ class shopping extends Component {
                                         <div class="card-body">
                                             <h5 class="card-title">{product.name} <span>10</span></h5>
                                             <img src="https://via.placeholder.com/150" />
-                                            <p class="card-text" align="center">$200</p>
+                                            <p class="card-text" align="center"></p>
                                             <button type="button" class="btn btn-primary">+</button>
                                         </div>
                                     </div>
